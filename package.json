@@ -1,0 +1,16 @@
+{
+  "name": "breathalyzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node/app.js",
+  "dependencies": {
+    "async": "^2.0.1",
+    "fast-levenshtein": "^1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexey Kovalenko",
+  "license": "ISC"
+}
